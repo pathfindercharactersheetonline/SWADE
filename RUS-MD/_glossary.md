@@ -1,0 +1,339 @@
+# Глоссарий терминов SWADE (эталон: SWADE_RUS_v1.07.md)
+
+## Черты (Edges) — сверено с английским PDF базовых правил (Core Rulebook Adventure Edition)
+- Quick → Стремительность
+- Level Headed → Хладнокровие
+- Danger Sense → Шестое чувство
+- Frenzy → Боевая ярость; Improved Frenzy → Боевая ярость+
+- Berserk → Берсерк
+- Sweep → Круговой удар
+- First Strike → Упреждающий удар
+- Dodge → Увёртливость
+- Extraction → Разрыв дистанции
+- Nerves of Steel → Стальные нервы
+- Iron Jaw → Стальная челюсть
+- Strong Willed → Железная воля
+- Brawny → Бугай
+- Luck → Везение; Great Luck → Везение+
+- Elan → Упорство
+- Arcane Resistance → Устойчивость к мистическим силам
+- Champion → Избранный
+- Beast Master → Укротитель; Beast Bond → Связь с животными
+- Scavenger → Запасливость
+- Trademark Weapon → Именное оружие
+- Two-Fisted → Два клинка; Two-Gun Kid → Два ствола
+- Ambidextrous → Амбидекстр
+- Combat Reflexes → Боевая закалка
+- Inspire → Воодушевление
+- Fervor → Боевой пыл
+- Command Presence → Командный голос
+- Alertness → Бдительность
+- Steady Hands → Твёрдая рука
+- Rich → Богатство
+- Tough as Nails → Крепкий орешек; Tougher than Nails → Крепкий орешек+
+- Ruthless → Беспощадность
+- Rock and Roll! → Рок-н-ролл!
+- Mr. Fix It → Мастер на все руки
+- Fleet-Footed → Быстроногость
+- Boating → Судовождение (навык)
+- Focus → Талант (навык дара «феномен»)
+- Wild Attack → яростный удар; The Drop → застать врасплох
+
+Этот глоссарий обязателен при переводе файлов SWADE на русский. Терминология должна строго соответствовать официальному переводу.
+
+## Характеристики (Attributes)
+- Agility → ловкость
+- Smarts → смекалка
+- Spirit → Характер
+- Strength → сила
+- Vigor → выносливость
+
+## Навыки (Skills)
+- Academics → академические знания
+- Athletics → атлетика
+- Battle → военное дело
+- Boating → вождение катера (в морских мирах: управление судном)
+- Driving → вождение
+- Faith → вера
+- Fighting → драка
+- Gambling → азартные игры
+- Hacking → хакерство
+- Healing → лечение
+- Intimidation → запугивание
+- Language → язык
+- Notice → внимание
+- Occult → оккультизм
+- Performance → выступление
+- Persuasion → убеждение
+- Piloting → пилотирование
+- Repair → ремонт
+- Research → поиск информации
+- Riding → верховая езда
+- Science → наука
+- Shooting → стрельба
+- Stealth → скрытность
+- Survival → выживание
+- Taunt → насмешка
+- Thieving → воровство
+- Weird Science → безумная наука
+- Focus → фокусировка
+- Spellcasting → колдовство (магия)
+- Common Knowledge → осведомлённость
+- Unskilled Try → неумелые попытки
+
+## Ранги (Ranks)
+- Novice → Новичок
+- Seasoned → Закалённый
+- Veteran → Ветеран
+- Heroic → Герой
+- Legendary → Легенда
+- Rank → ранг
+- Advance / Advancement → Повышение / развитие
+
+## Базовые термины
+- Edge → черта
+- Hindrance → изъян (Minor → мелкий, Major → крупный)
+- Benny → фишка
+- Wild Die → дикий кубик
+- Joker → джокер
+- Action Card / Action Deck → карта действия / колода действий
+- Wild Card → Дикая карта (особый персонаж)
+- Extra → прислужник / статист
+- Game Master → Ведущий
+- Session → встреча (игровая встреча)
+- Setting → игровой мир
+- Shake(d) → шок / shaken → «ошеломлён» — ВНИМАНИЕ: в эталоне "Shaken" переведён как «шок» (находится в шоке, выйти из шока)
+- Wound / Wounds → ранение / ранения
+- Incapacitated → выведен из строя
+- Bleeding Out → истекает кровью
+- Acing / Ace → взрыв (взрывной бросок, кость «взрывается»)
+- Raise → подъём (успех с подъёмом)
+- Critical Failure → критический провал
+- Parry → защита
+- Toughness → стойкость
+- Pace → Шаг
+- Size → размер (крупность)
+- Fatigue → усталость
+- Soak → поглотить (урон) — «поглощение урона»
+- Natural Healing → естественное выздоровление
+- Golden Hour → золотой час
+- Arcane Background → мистический дар (Magic → магия, Miracles → чудеса, Psionics → псионика, Super Powers → суперсилы, Weird Science → безумная наука, Gifted → феномен)
+- Power → сила (мистическая сила)
+- Powers → силы
+- Power Points (PP) → пункты силы (ПС)
+- Trapping(s) → проявления
+- Modifiers → модификаторы
+- Target Number (TN) → целевое число
+- Opposed Roll → встречная проверка
+- Multi-Action → несколько действий / дополнительное действие
+- Free Action → свободное действие
+- Hold → выжидание
+- Draw → выхватить (оружие)
+- Ranged Attack → дистанционная атака
+- Melee Attack → атака в ближнем бою
+- Grapple → захват
+- Gang Up → окружение
+- Reach → досягаемость
+- Cover → укрытие
+- Illumination → освещение
+- Slow (Hindrance) → медлительность
+- Clueless → безграмотность
+- Ancestry → народ / вид
+- Racial Ability → особенность народа
+- Culture → культура / культурный пакет
+- Bestiary → бестиарий
+- Savage Tale → свэйдский рассказ (короткое приключение)
+- Plot Point Campaign → кампания на основе сюжетного узла
+- archanum/arcane → мистический
+- Gear → снаряжение
+- Load Limit → грузоподъёмность (нагрузка)
+- Armor → броня
+- Armor Rating → класс брони
+- Heavy Armor → тяжёлая броня
+- Minimum Strength → минимальная сила
+- Range → дальность
+- RoF (Rate of Fire) → скорострельность
+- Damage → урон
+- AP (Armor Piercing) → бронебойность
+- HW (Heavy Weapon) → тяжёлое оружие
+- Long Range → дальняя дистанция
+- Short/Medium/Long → короткая/средняя/дальняя дистанция
+- Chase → погоня
+- Mass Battles → массовые сражения
+- Fear → страх
+- Fear Table → таблица страха
+- Courage → храбрость (проверка храбрости)
+- Nets → сети
+- Zones → зоны
+- Knockdown → сбивание с ног
+- Stun → оглушение
+- Panic → паника
+- Berserk → боевая ярость
+- Sensory overload → сенсорная перегрузка
+- Non-Violent → ненасильственный
+
+## Существительные и стилистика
+- Рульки уронов и бросков сохранять как есть: d6, d8, 2d6+1 и т.п.
+- Множитель урона Str → «сила» (урон: сила + d6)
+- «стр. N» — page references: <!-- стр. N --> комментарии сохранять
+- Названия глав: Chapter One → Глава 1 и т.д.
+- Термины в тексте выделять **жирным** так же, как в оригинале
+- Имена персонажей транскрибировать (пример: Red → Рэд, Gabe → Гейб)
+- Game Master → Ведущий (с заглавной внутри текста правил)
+- player(s) → игрок(и); character → персонаж; hero → герой
+- Party → отряд / партия
+- Campaign → кампания
+- Adventure → приключение
+- Companion → Companion (не переводить в названиях книг) / «дополнение» в тексте
+-Gear Notes/Weapon Notes → примечания к оружию/снаряжению
+- Таблицы сохранять в формате Markdown
+- Единицы: inch → дюйм, yard → ярд, mile → миля, foot/feet → фут/футы, pound → фунт
+- Miniatures → миниатюры
+- Tactical map → тактическая карта
+- Creature/being → существо
+- Weapon → оружие
+- Melee weapon → оружие ближнего боя
+- Ranged weapon → дистанционное оружие
+
+## Терминология Deadlands: the Weird West (нет официального эталона — используйте эти варианты consistently)
+- Huckster → хакстер
+- Harrowed → мертвяк (восставший из мёртвых; «харроуед» допустимо при первом упоминании)
+- Manitous → маниту
+- Reckoners → Караульные (Reckoners); the Reckoning → Расплата
+- Weird West → Жуткий Запад (Deadlands: the Weird West → Deadlands: Жуткий Запад)
+- Maze → Лабиринт (калифорнийский Лабиринт)
+- Ghost Rock → призрачный камень (ghost rock)
+- Fear Level → уровень страха
+- Terror → ужас
+- Posse → отряд
+- Marshal → Маршал (Ведущий в Deadlands)
+- Blessed → праведник (благословенный)
+- Shaman → шаман
+- Voodooist → вудуист
+- Old Ways → Старые Пути
+- Trows / Sioux / Coyote Confederation и т.п. — племена и народы не переводить без необходимости
+- Civil War → Гражданская война; Confederate → конфедерат
+- Saloon → салун
+- Pinkerton → Пинкертон
+- Agency → Агентство
+- Texas Rangers → техасские рейнджеры
+- Rail Wars → Железнодорожные войны
+- Junkman / junker → джанкер (мусорщик-техномант)
+- Hex / hexslinger → проклятие / колдун-хакстер
+- Grit → Дух (характеристика старой системы; в тексте SWADE не встречается, если встречается — «стойкость духа»)
+- Black Circle → Чёрный круг
+- Cult of Doom → Культ Рока
+- Church of the Commune → Церковь Коммуны
+- Whateley → Уэйтли (фамилия)
+- Grim Prairie Trail → Грим-Прери-Трейл не переводить (названия локаций транскрибировать)
+- Названия городов США не переводить (Denver → Денвер транскрибировать только общеизвестные)
+
+## Терминология Science Fiction Companion
+- Cyberware → киберимплант
+- Power Armor → силовая броня
+- Starship → звёздный корабль
+- Traders and Diplomats и т.п. — по смыслу
+- Robot → робот
+- Walker → шагоход
+- Vehicle → транспортное средство
+- World Maker → Конструктор миров
+
+## Силы (Powers) — ТОЧНЫЕ соответствия по эталону SWADE_RUS_v1.07 (обязательны!)
+- Blast → Взрыв
+- Speak Language → Владение языком
+- Resurrection → Воскрешение
+- Warrior's Gift → Дар воина
+- Armor → Доспех
+- Beast Friend → Друг зверей
+- Slow/Quick → Замедление/ускорение
+- Environmental Protection → Защита от окружающей среды
+- Arcane Protection → Защита от мистических сил
+- Sound/Silence → Звук/тишина
+- Zombie → Зомби
+- Detect Arcana → Зоркость
+- Banish → Изгнание
+- Illusion → Иллюзия
+- Drain Power → Иссушение
+- Healing → Исцеление
+- Puppet → Марионетка
+- Disguise → Маска
+- Mind Link → Ментальная связь
+- Invisibility → Невидимость
+- Intangibility → Неосязаемость
+- Stun → Оглушение
+- Blind → Ослепление
+- Boost/Lower Trait → Поддержка... НЕТ: Boost Trait → Поддержка относится к Support; Boost/Lower Trait → Усилить/ослабить параметр
+- Support → Поддержка
+- Burrow → Подземный ход
+- Flight → Полёт
+- Stream/Flow → Поток
+- Shape Change → Превращение
+- Summon Ally → Призыв союзника
+- Divination → Прорицание
+- Psychometry → Психометрия
+- Entangle → Путы
+- Havoc → Разрушительное поле
+- Dispel → Рассеивание
+- Light/Obscure → Свет/тьма
+- Whirlwind → Смерч
+- Confusion → Смятение
+- Beast Sense → Совиное чутьё
+- Smite → Сокрушение
+- Slumber → Сон
+- Barrier/Wall → Стена
+- Memory Wipe → Стирание памяти
+- Bolt → Стрела
+- Telekinesis → Телекинез
+- Teleport → Телепортация
+- Growth/Shrink → Увеличение/Уменьшение
+- Precognitive Vision → Прорицание (см. выше)
+- Fear (power) → Ужас
+- Elemental Manipulation → Управление стихиями
+- Boost/Lower Trait → Усилить/ослабить параметр
+- Mind Reading → Чтение мыслей
+- Shield → Щит
+- Empathy → Эмпатия
+- Succor → Поддержка
+
+## Существа/особенности бестиария (по эталону)
+- Immunе → Невосприимчивость; Undead → Нежить; Invulnerability → Неуязвимость; Paralysis → Паралич
+- Aquarians → Океаниды (по эталону! не «акваны», не «аквариане»)
+- Avions → Авионы; Rakashans → Ракашаны; Half-Folk → полурослики; Half-Elves → полуэльфы; Half-Orcs → полуорки; Half-Giants → полугиганты
+- Saurians → людоящеры (unify: везде «людоящеры», не «завры»)
+- Shapeshifters → оборотни; Serpentfolk → змеелюды; Ratlings → крысолюды; Dragonfolk → драконолюды; Insectoids → инсектоиды; Mouselings → мышеюди (unify: «мышеюди» или «мышелюди» — использовать «мышелюди»)
+- Graveborn → могильнорождённые; Celestials → небожители; Elemental Scions → отпрыски стихий
+- Aura, centaux, draken, florans, gelatinoids → аураксы, кентавры (Centaurs → кентавры), дракены, флораны, желатиноиды
+- Wild Attack → яростный удар; Knockout Blow → нокаутирующий удар
+- Quick → Проворство; Hardy → Живучий; Brawny → Крепкий; Brute → Силач; Champion → Чемпион
+- Beast Bond → Связь со зверем; Beast Master → Повелитель зверей; Alertness → Наблюдательность
+- Infravision → Инфразрение; Low Light Vision → Сумеречное зрение; Dark Vision → Тёмное зрение
+- Arcane Resistance → Сопротивление мистике
+- Единообразие в Fantasy Companion: Dwarves → дварфы, Rakashans → Ракашаны (не «Ракашане»), Saurians → людоящеры (не «завры»), мышелюди (Mouselings)
+
+## Единые решения для совместимости между частями (обязательны)
+- No Man's Land → Ничейная земля (unify)
+- Hunting Grounds → Охотничьи угодья
+- Servitors → Слуги
+- Huckster's Backfire Table → Таблица осечки хакстера
+- Blast Template → шаблон взрыва; Small/Medium/Large Blast Template → малый/средний/большой шаблон взрыва; Burst Template → шаблон поражения; Cone Template → конусный шаблон
+- The Drop → застать врасплох (атака с врасплох)
+- Distracted → отвлечён; Vulnerable → уязвим
+- Bound and Entangled → обездвижен и схвачен
+- Called Shots → прицельные атаки
+- running die → кость бега
+- Strain → нагрузка (SciFi)
+- Conviction → Убеждённость (в Deadlands/Fantasy, не путать с навыком «убеждение»)
+- bolt (сила) → Стрела; slumber → Сон; mend → Починка; breakdown → Поломка; trinkets → Безделушки
+- Power modifiers: Selective → Избирательность; Area Effect → Площадь; Damage by PP → Урон (за ПС); AP → бронебойность; Heavy Weapon → Тяжёлое оружие; Persistent → Продолжительный; Duration → Длительность
+- Type-specific traits (N/S/V etc.) → (Н) новичок / (З) закалённый / (В) ветеран / (Г) герой / (Л) легенда; в таблицах существ использовать оригинальные латинские буквы N/S/V/H/L только если так в исходнике
+
+## Неопределённые термины
+Если термин отсутствует в глоссарии и нет очевидного перевода — переведите по смыслу и ЗАПОМНИТЕ свой выбор; в конце работы верните список «term → перевод» для сверки между частями.
+
+## Стиль перевода (по эталону)
+- Обращение к читателю на «вы» (со строчной в середине предложения, с прописной в начале)
+- Правила пишутся в настоящем времени, повелительное наклонение
+- Термины при первом упоминании в тексте выделяются полужирным
+- Названия книг — курсивом (Savage Worlds, Deadlands, Fantasy Companion)
+- Сохранять структуру Markdown: заголовки, списки, таблицы, цитаты, блоки «Текст вне основного потока»
+- Комментарии <!-- стр. N --> переносить в те же места
